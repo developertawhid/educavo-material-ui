@@ -20,7 +20,7 @@ Please follow the below instructions to run this project in your machine:
    ```
 2. Go into cloned directory
    ```sh
-   cd educavo-material-ui-main
+   cd educavo-material-ui
    ```
 3. Run the app
    ```sh
